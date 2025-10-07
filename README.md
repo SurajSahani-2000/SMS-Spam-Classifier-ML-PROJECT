@@ -1,6 +1,6 @@
 # SMS-Spam-Classifier-ML-PROJECT
 My First SMS Spam Classifier Project
-Hi there! This is my first machine learning project where I'm building a system to figure out if a text message is spam or not. It's a fun way to learn about how computers can understand and work with text.
+ This is my first machine learning project where I'm building a system to figure out if a text message is spam or not. It's a fun way to learn about how computers can understand and work with text.
 
 What this project does
 The main goal is to create a simple model that can look at an SMS message and tell if it's a spam message (like an advertisement or a scam) or a normal message (called "ham").
